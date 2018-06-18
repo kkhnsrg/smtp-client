@@ -1,3 +1,3 @@
 # SMTP-Client
 
-Simple implmentation of SMTP-client
+<h3>Simple implmentation of SMTP-client</h3>
